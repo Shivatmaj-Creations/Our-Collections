@@ -10,9 +10,9 @@ const PRODUCTS = [
     description:
       "A serene, seated Bappa finished in warm earthen tones. Compact enough for the home altar, detailed enough to feel truly special.",
     images: [
-      "https://images.pexels.com/photos/21383559/pexels-photo-21383559/free-photo-of-ganesha-figurine-among-flowers.jpeg?cs=tinysrgb&w=1200",
-      "https://images.pexels.com/photos/20776408/pexels-photo-20776408/free-photo-of-statue-of-ganesha.jpeg?cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/9998331/pexels-photo-9998331.jpeg?cs=tinysrgb&w=800",
+      "images/1.1.jpeg",
+      "images/1.2.jpeg",
+      "images/1.3.jpeg",
     ],
   },
   {

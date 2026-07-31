@@ -10,7 +10,7 @@ const PRODUCTS = [
     description:
       "A serene, seated Bappa finished in warm earthen tones. Compact enough for the home altar, detailed enough to feel truly special.",
     images: [
-      "images/1.1.webp",
+      "images/1.1.jpeg",
       "images/1.2.jpeg",
       "images/1.3.jpeg",
     ],

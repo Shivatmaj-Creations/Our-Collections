@@ -23,9 +23,9 @@ const PRODUCTS = [
     description:
       "An elegant standing form with a flowing drape and gentle expression. Naturally pigmented, entirely free of plaster and chemical paint.",
     images: [
-      "https://images.pexels.com/photos/33643802/pexels-photo-33643802/free-photo-of-intricate-ganesh-idol-with-vibrant-details.jpeg?cs=tinysrgb&w=1200",
-      "https://images.pexels.com/photos/35558431/pexels-photo-35558431/free-photo-of-intricate-ganesha-statue-with-artistic-details.jpeg?cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/36854234/pexels-photo-36854234/free-photo-of-ganesh-statue-with-floating-rice-in-ritual-setting.jpeg?cs=tinysrgb&w=800",
+      "images/2.1.jpeg",
+      "images/2.2.jpeg",
+      "images/2.3.jpeg",
     ],
   },
   {
@@ -36,9 +36,9 @@ const PRODUCTS = [
     description:
       "Our statement idol for larger celebrations. Grand proportions, softly detailed ornamentation, and a finish that dissolves cleanly at visarjan.",
     images: [
-      "https://images.pexels.com/photos/30346579/pexels-photo-30346579/free-photo-of-vibrant-gold-statue-of-lord-ganesha-in-garden-setting.jpeg?cs=tinysrgb&w=1200",
-      "https://images.pexels.com/photos/5769340/pexels-photo-5769340.jpeg?cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/8125134/pexels-photo-8125134.jpeg?cs=tinysrgb&w=800",
+      "images/3.1.jpeg",
+      "images/3.2.jpeg",
+      "images/3.3.jpeg",
     ],
   },
   {
@@ -49,12 +49,90 @@ const PRODUCTS = [
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
-      "https://images.pexels.com/photos/11569937/pexels-photo-11569937.jpeg?cs=tinysrgb&w=1200",
-      "https://images.pexels.com/photos/10899326/pexels-photo-10899326.jpeg?cs=tinysrgb&w=800",
-      "https://images.pexels.com/photos/33289449/pexels-photo-33289449/free-photo-of-detailed-bronze-ganesha-statue-outdoors.jpeg?cs=tinysrgb&w=800",
+     "images/4.1.jpeg",
+      "images/4.2.jpeg",
+      "images/4.3.jpeg",
+    ],
+  },
+{
+    name: "Siddhivinayak1",
+    height: "6 inches",
+    material: "Natural clay · mini",
+    price: "₹899",
+    description:
+      "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
+    images: [
+      "images/5.1.jpeg",
+      "images/5.2.jpeg",
+      "images/5.3.jpeg",
+  },
+{
+    name: "Siddhivinayak2",
+    height: "6 inches",
+    material: "Natural clay · mini",
+    price: "₹899",
+    description:
+      "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
+    images: [
+      "images/6.1.jpeg",
+      "images/6.2.jpeg",
+      "images/6.3.jpeg",
+    ],
+  },
+{
+    name: "Siddhivinayak3",
+    height: "6 inches",
+    material: "Natural clay · mini",
+    price: "₹899",
+    description:
+      "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
+    images: [
+     "images/7.1.jpeg",
+      "images/7.2.jpeg",
+      "images/7.3.jpeg",
+    ],
+  },
+{
+    name: "Siddhivinayak4",
+    height: "6 inches",
+    material: "Natural clay · mini",
+    price: "₹899",
+    description:
+      "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
+    images: [
+      "images/8.1.jpeg",
+      "images/8.2.jpeg",
+      "images/8.3.jpeg",
+    ],
+  },
+{
+    name: "Siddhivinayak5",
+    height: "6 inches",
+    material: "Natural clay · mini",
+    price: "₹899",
+    description:
+      "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
+    images: [
+      "images/9.1.jpeg",
+      "images/9.2.jpeg",
+      "images/9.3.jpeg",
+    ],
+  },
+{
+    name: "Siddhivinayak6",
+    height: "6 inches",
+    material: "Natural clay · mini",
+    price: "₹899",
+    description:
+      "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
+    images: [
+     "images/10.1.jpeg",
+      "images/10.2.jpeg",
+      "images/10.3.jpeg",
     ],
   },
 ];
+
 
 /* ---------------------------------------------------------
    2. RENDER PRODUCTS + IMAGE GALLERY

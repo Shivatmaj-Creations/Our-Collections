@@ -222,14 +222,7 @@ body::after {
 .marquee__track i { color: var(--accent); font-style: normal; }
 @keyframes marquee { to { transform: translateX(-50%); } }
 
-/* ---------- 9. MANIFESTO ---------- */
-.manifesto { padding: 120px 0; background: var(--bg-alt); }
-.manifesto__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; }
-.chapter { padding: 40px 34px; background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow-sm); transition: transform .5s var(--ease), box-shadow .5s var(--ease); }
-.chapter:hover { transform: translateY(-8px); box-shadow: var(--shadow); }
-.chapter__num { font-family: var(--h-serif); font-size: 3.2rem; color: var(--accent); line-height: 1; display: block; margin-bottom: 18px; }
-.chapter h3 { font-size: 1.7rem; margin-bottom: 12px; }
-.chapter p { color: #47543f; font-size: .98rem; }
+
 
 /* ---------- 10. PRODUCTS & GALLERY ---------- */
 .products { padding: 130px 0; }

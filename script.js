@@ -65,7 +65,7 @@ const PRODUCTS = [
       "images/5.1.jpeg",
       "images/5.2.jpeg",
       "images/5.3.jpeg",
-      ]
+      ],
       },
 {
     name: "Siddhivinayak2",

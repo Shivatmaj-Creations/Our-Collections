@@ -54,7 +54,7 @@ const PRODUCTS = [
       "images/4.3.jpeg",
     ],
   },
-{
+  {
     name: "Siddhivinayak1",
     height: "6 inches",
     material: "Natural clay · mini",
@@ -62,11 +62,11 @@ const PRODUCTS = [
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
-      "images/5.1.jpeg",
-      "images/5.2.jpeg",
-      "images/5.3.jpeg",
-      ],
-      },
+     "images/4.1.jpeg",
+      "images/4.2.jpeg",
+      "images/4.3.jpeg",
+    ],
+  },
 {
     name: "Siddhivinayak2",
     height: "6 inches",

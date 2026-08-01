@@ -36,9 +36,9 @@ const PRODUCTS = [
     description:
       "Our statement idol for larger celebrations. Grand proportions, softly detailed ornamentation, and a finish that dissolves cleanly at visarjan.",
     images: [
-      "images/3.1.jpeg",
-      "images/3.2.jpeg",
-      "images/3.3.jpeg",
+      "images/3.1.webp",
+      "images/3.2.webp",
+      "images/3.3.webp",
     ],
   },
   {
@@ -49,9 +49,9 @@ const PRODUCTS = [
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
-     "images/4.1.jpeg",
-      "images/4.2.jpeg",
-      "images/4.3.jpeg",
+     "images/4.1.webp",
+      "images/4.2.webp",
+      "images/4.3.webp",
     ],
   },
   {
@@ -62,9 +62,9 @@ const PRODUCTS = [
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
-     "images/4.1.jpeg",
-      "images/4.2.jpeg",
-      "images/4.3.jpeg",
+     "images/5.1.webp",
+      "images/5.2.webp",
+      "images/5.3.webp",
     ],
   },
 {
@@ -75,9 +75,9 @@ const PRODUCTS = [
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
-      "images/6.1.jpeg",
-      "images/6.2.jpeg",
-      "images/6.3.jpeg",
+      "images/6.1.webp",
+      "images/6.2.webp",
+      "images/6.3.webp",
     ],
   },
 {
@@ -88,9 +88,9 @@ const PRODUCTS = [
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
-     "images/7.1.jpeg",
-      "images/7.2.jpeg",
-      "images/7.3.jpeg",
+     "images/7.1.webp",
+      "images/7.2.webp",
+      "images/7.3.webp",
     ],
   },
 {
@@ -101,9 +101,9 @@ const PRODUCTS = [
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
-      "images/8.1.jpeg",
-      "images/8.2.jpeg",
-      "images/8.3.jpeg",
+      "images/8.1.webp",
+      "images/8.2.webp",
+      "images/8.3.webp",
     ],
   },
 {
@@ -114,9 +114,9 @@ const PRODUCTS = [
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
-      "images/9.1.jpeg",
-      "images/9.2.jpeg",
-      "images/9.3.jpeg",
+      "images/9.1.webp",
+      "images/9.2.webp",
+      "images/9.3.webp",
     ],
   },
 {
@@ -127,9 +127,9 @@ const PRODUCTS = [
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
-     "images/10.1.jpeg",
-      "images/10.2.jpeg",
-      "images/10.3.jpeg",
+     "images/10.1.webp",
+      "images/10.2.webp",
+      "images/10.3.webp",
     ],
   },
 ];

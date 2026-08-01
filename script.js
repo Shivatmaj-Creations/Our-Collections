@@ -23,9 +23,9 @@ const PRODUCTS = [
     description:
       "An elegant standing form with a flowing drape and gentle expression. Naturally pigmented, entirely free of plaster and chemical paint.",
     images: [
-      "images/2.1.jpeg",
-      "images/2.2.jpeg",
-      "images/2.3.jpeg",
+      "images/2.1.webp",
+      "images/2.2.webp",
+      "images/2.3.webp",
     ],
   },
   {

@@ -4,9 +4,9 @@ const WHATSAPP_NUMBER = "919893434297"; // country code + number, no "+" or spac
 const PRODUCTS = [
   {
     name: "Maharaja (महाराजा)",
-    height: "8 inches",
+    height: "17 inches",
     material: "Natural riverbed clay",
-    price: "₹1,499",
+    price: "₹3,499",
     description:
       "A serene, seated Bappa finished in warm earthen tones. Compact enough for the home altar, detailed enough to feel truly special.",
     images: [
@@ -17,9 +17,9 @@ const PRODUCTS = [
   },
   {
     name: "Dagdusheth (दगडुशेठ)",
-    height: "11 inches",
+    height: "12 inches",
     material: "Hand-sculpted clay",
-    price: "₹2,299",
+    price: "₹2,499",
     description:
       "An elegant standing form with a flowing drape and gentle expression. Naturally pigmented, entirely free of plaster and chemical paint.",
     images: [
@@ -30,9 +30,9 @@ const PRODUCTS = [
   },
   {
     name: "Dagdusheth (दगडुशेठ)",
-    height: "14 inches",
+    height: "12 inches",
     material: "Premium natural clay",
-    price: "₹3,499",
+    price: "₹2,499",
     description:
       "Our statement idol for larger celebrations. Grand proportions, softly detailed ornamentation, and a finish that dissolves cleanly at visarjan.",
     images: [
@@ -43,9 +43,9 @@ const PRODUCTS = [
   },
   {
     name: "Takht Wale Ganesh (तख्त वाले गणेश)",
-    height: "6 inches",
+    height: "16 inches",
     material: "Natural clay · mini",
-    price: "₹899",
+    price: "₹3,499",
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
@@ -56,9 +56,9 @@ const PRODUCTS = [
   },
   {
     name: "Shiv Ke Lal (शिव के लाल)",
-    height: "6 inches",
+    height: "14 inches",
     material: "Natural clay · mini",
-    price: "₹899",
+    price: "₹1,499",
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
@@ -69,9 +69,9 @@ const PRODUCTS = [
   },
 {
     name: "Siddhivinayak (सिद्धिविनायक)",
-    height: "6 inches",
+    height: "14 inches",
     material: "Natural clay · mini",
-    price: "₹899",
+    price: "₹1,799",
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
@@ -82,9 +82,9 @@ const PRODUCTS = [
   },
 {
     name: "Bal Ganesh (बाल गणेश)",
-    height: "6 inches",
+    height: "13 inches",
     material: "Natural clay · mini",
-    price: "₹899",
+    price: "₹1,499",
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
@@ -95,9 +95,9 @@ const PRODUCTS = [
   },
 {
     name: "Ashtavinayak (अष्टविनायक)",
-    height: "6 inches",
+    height: "12 inches",
     material: "Natural clay · mini",
-    price: "₹899",
+    price: "₹1,099",
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [
@@ -108,9 +108,9 @@ const PRODUCTS = [
   },
 {
     name: "Gajkarna (गजकर्ण)",
-    height: "6 inches",
+    height: "12 inches",
     material: "Natural clay · mini",
-    price: "₹899",
+    price: "₹1,499",
     description:
       "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
     images: [

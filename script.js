@@ -3,7 +3,7 @@ const WHATSAPP_NUMBER = "919893434297"; // country code + number, no "+" or spac
 
 const PRODUCTS = [
   {
-    name: "Ekdanta",
+    name: "Ekdanta (गजकर्ण)",
     height: "8 inches",
     material: "Natural riverbed clay",
     price: "₹1,499",

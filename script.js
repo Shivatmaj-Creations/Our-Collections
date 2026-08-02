@@ -3,7 +3,7 @@ const WHATSAPP_NUMBER = "919893434297"; // country code + number, no "+" or spac
 
 const PRODUCTS = [
   {
-    name: "Ekdanta (गजकर्ण)",
+    name: "Maharaja (महाराजा)",
     height: "8 inches",
     material: "Natural riverbed clay",
     price: "₹1,499",
@@ -16,7 +16,7 @@ const PRODUCTS = [
     ],
   },
   {
-    name: "Vakratunda",
+    name: "Dagdusheth (दगडुशेठ)",
     height: "11 inches",
     material: "Hand-sculpted clay",
     price: "₹2,299",
@@ -29,7 +29,7 @@ const PRODUCTS = [
     ],
   },
   {
-    name: "Lambodara",
+    name: "Dagdusheth (दगडुशेठ)",
     height: "14 inches",
     material: "Premium natural clay",
     price: "₹3,499",
@@ -42,7 +42,7 @@ const PRODUCTS = [
     ],
   },
   {
-    name: "Siddhivinayak",
+    name: "Takht Wale Ganesh (तख्त वाले गणेश)",
     height: "6 inches",
     material: "Natural clay · mini",
     price: "₹899",
@@ -55,7 +55,7 @@ const PRODUCTS = [
     ],
   },
   {
-    name: "Siddhivinayak1",
+    name: "Shiv Ke Lal (शिव के लाल)",
     height: "6 inches",
     material: "Natural clay · mini",
     price: "₹899",
@@ -68,7 +68,7 @@ const PRODUCTS = [
     ],
   },
 {
-    name: "Siddhivinayak2",
+    name: "Siddhivinayak (सिद्धिविनायक)",
     height: "6 inches",
     material: "Natural clay · mini",
     price: "₹899",
@@ -81,7 +81,7 @@ const PRODUCTS = [
     ],
   },
 {
-    name: "Siddhivinayak3",
+    name: "Bal Ganesh (बाल गणेश)",
     height: "6 inches",
     material: "Natural clay · mini",
     price: "₹899",
@@ -94,7 +94,7 @@ const PRODUCTS = [
     ],
   },
 {
-    name: "Siddhivinayak4",
+    name: "Ashtavinayak (अष्टविनायक)",
     height: "6 inches",
     material: "Natural clay · mini",
     price: "₹899",
@@ -107,7 +107,7 @@ const PRODUCTS = [
     ],
   },
 {
-    name: "Siddhivinayak5",
+    name: "Gajkarna (गजकर्ण)",
     height: "6 inches",
     material: "Natural clay · mini",
     price: "₹899",
@@ -117,19 +117,6 @@ const PRODUCTS = [
       "images/9.1.webp",
       "images/9.2.webp",
       "images/9.3.webp",
-    ],
-  },
-{
-    name: "Siddhivinayak6",
-    height: "6 inches",
-    material: "Natural clay · mini",
-    price: "₹899",
-    description:
-      "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
-    images: [
-     "images/10.1.webp",
-      "images/10.2.webp",
-      "images/10.3.webp",
     ],
   },
 ];

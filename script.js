@@ -250,20 +250,6 @@ const PRODUCTS = [
       "basic",
     ],
   },
-  {
-    name: "New ( )",
-    height: "10 inches",
-    material: "Shadu mati",
-    description: "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
-    premiumImages: [],
-    premiumPrice: "",
-    basicImages: ["images/18.1.webp", "images/18.2.webp"],
-    basicPrice: "₹1,099",
-    versions: [
-      /* "premium",*/
-      "basic",
-    ],
-  },
 ];
 
 // ==================== RENDER PRODUCTS ====================

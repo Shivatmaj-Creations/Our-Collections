@@ -157,7 +157,7 @@ const PRODUCTS = [
     height: "12 inches",
     material: "Shadu mati",
     description: "An elegant standing form with a flowing drape and gentle expression. Naturally pigmented, entirely free of plaster and chemical paint.",
-    premiumImages: ["images/3.1.webp", "images/3.2.webp", "images/3.3.webp"],
+    premiumImages: ["images/3.1.webp", "images/3.2.webp", "images/3.3.webp", "images/3.5.webp", "images/3.6.webp"],
     premiumPrice: "₹2,501",
     basicImages: [],
     basicPrice: "",
@@ -171,13 +171,27 @@ const PRODUCTS = [
     height: "16 inches",
     material: "Shadu mati",
     description: "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
-    premiumImages: ["images/5.1.webp"],
+    premiumImages: ["images/5.1.webp","images/5.2.webp"],
     premiumPrice: "₹3,501",
     basicImages: [],
     basicPrice: "",
     versions: [
       "premium", 
       /*"basic",*/
+    ],
+  },
+  {
+    name: "Shiv Ke Lal (शिव के लाल)",
+    height: "14 inches",
+    material: "Shadu mati",
+    description: "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
+    premiumImages: [],
+    premiumPrice: "",
+    basicImages: ["images/7.1.webp"],
+    basicPrice: "₹1,801",
+    versions: [
+      "premium",
+       /*"basic",*/
     ],
   },
   {
@@ -206,6 +220,20 @@ const PRODUCTS = [
     versions: [
       "premium",
       "basic",
+    ],
+  },
+  {
+    name: "Bal Ganesh (बाल गणेश)",
+    height: "13 inches",
+    material: "Shadu mati",
+    description: "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
+    premiumImages: [],
+    premiumPrice: "",
+    basicImages: ["images/11.1.webp", "images/11.2.webp"],
+    basicPrice: "₹1,801",
+    versions: [
+      "premium",
+      /*"basic",*/
     ],
   },
   {

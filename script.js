@@ -185,10 +185,10 @@ const PRODUCTS = [
     height: "14 inches",
     material: "Shadu mati",
     description: "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
-    premiumImages: [],
-    premiumPrice: "",
-    basicImages: ["images/7.1.webp"],
-    basicPrice: "₹1,801",
+    premiumImages: ["images/7.1.webp"],
+    premiumPrice: "₹1,801",
+    basicImages: [],
+    basicPrice: "",
     versions: [
       "premium",
        /*"basic",*/
@@ -227,10 +227,10 @@ const PRODUCTS = [
     height: "13 inches",
     material: "Shadu mati",
     description: "A little Bappa for desks, cars and gifting. Same honest clay, same handcrafted care — in a gentle, pocket-friendly size.",
-    premiumImages: [],
-    premiumPrice: "",
-    basicImages: ["images/11.1.webp", "images/11.2.webp"],
-    basicPrice: "₹1,801",
+    premiumImages: ["images/11.1.webp", "images/11.2.webp"],
+    premiumPrice: "₹1,801",
+    basicImages: [],
+    basicPrice: "",
     versions: [
       "premium",
       /*"basic",*/
